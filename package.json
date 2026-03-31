@@ -1,4 +1,5 @@
 {
+  "homepage": "https://aakashrpal.github.io/antra/",
   "name": "web-antra",
   "version": "1.0.0",
   "type": "module",
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.2",
-    "@vitejs/plugin-react": "^6.0.1"
+    "@vitejs/plugin-react": "^6.0.1",
+    "gh-pages": "^6.3.0"
   }
 }
